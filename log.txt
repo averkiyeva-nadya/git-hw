@@ -1,0 +1,13 @@
+*   82d0291 (HEAD -> main, origin/main) Разрешить конфликт при слиянии feature-b
+|\  
+| * 710a9fd (feature-b) Изменить четвертую строку в feature-b
+* | e2ee854 Изменить четвертую строку в main
+* | 605e83b Merge branch 'feature-b'
+|\| 
+| * 118f193 Изменить третью строку в feature-b
+| * 32df4c0 (origin/feature-b) feature-b: добавить содержание 3-ей строки
+* | 98b972d Изменить третью строку в main
+|/  
+* 6202ec9 (origin/feature-a, feature-a) Добавить содержание 4-ой строчки
+* 0856bc9 Добавить содержание 3-ей строки
+* 9f87f0e Initial commit
